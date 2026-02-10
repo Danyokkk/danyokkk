@@ -1,20 +1,16 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient,100:1a1a27&height=180&section=header&text=Danylo%20(Danik)&fontSize=48&fontColor=ffffff" alt="Danylo header" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:4a4a4a&height=120&section=header&text=&fontSize=1" width="100%" />
 
-<!-- Monochrome waving capsule -->
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:4a4a4a&height=90&section=header" 
-  alt="Monochrome wave" 
-  width="100%" 
-/>
-
-<!-- Typing animation -->
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=1000&center=true&vCenter=true&width=900&color=9E9E9E&lines=Hi%2C+I%27m+Danik" 
-    alt="Typing intro" 
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?
+    font=Unbounded
+    &size=32
+    &duration=3000
+    &pause=2000
+    &center=true
+    &vCenter=true
+    &width=900
+    &color=9E9E9E
+    &lines=Hi%2C+I%27m+Danik" />
 </div>
 
 
