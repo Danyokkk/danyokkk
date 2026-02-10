@@ -41,11 +41,20 @@ What I can help with:
   </picture>
 </p>
 
----
+<!-- flower -->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Danyokkk/github-flower/main/flower.svg"
+    />
+    <img
+      alt="danik flower animation"
+      src="https://raw.githubusercontent.com/Danyokkk/github-flower/main/flower.svg"
+    />
+  </picture>
+</p>
 
-## Toolbox
-
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
