@@ -3,13 +3,41 @@
 
   <h1>Hi, I’m formally Danylo (Danik)</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&center=true&vCenter=true&width=750&lines=High-level+specialist+in+web+app+development;A+little+game+development+too;Always+open+to+learn+something+new;Open+to+collaborations+and+cool+projects" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&center=true&vCenter=true&width=900&color=9E9E9E&lines=Programmer+%26+Game+Developer;High-level+web+app+specialist;Always+learning+and+experimenting;Open+to+collaborations+and+cool+projects" alt="Typing animation" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:4a4a4a&height=90&section=header" alt="Monochrome wave" width="100%" />
 
 ---
 
 ## About
-I’m a high-level specialist in web app development, with a little experience in game development. I’m always open to learn something new and work on projects. I know Python, HTML, and a little Java.
+I’m a programmer and game developer with a strong focus on building real-world web applications. I care about clean architecture, fast iteration, and shipping things people actually use. On the game side, I enjoy prototyping mechanics, building tools, and bringing ideas to life with tight feedback loops. I’m always learning, experimenting, and open to working with strong teams or solo creators on meaningful projects.
+
+I’m strongest in Python and HTML, and I also work with Java. If you’re looking for someone who can build the product, set up the pipeline, and keep improving it, I’m ready to help.
+
+What I can help with:
+- Web apps from MVP to production
+- ML-powered features and data pipelines
+- Game prototypes, gameplay loops, and tooling
+- Automation, deployment, and CI/CD workflows
+
+---
+
+## Current Focus
+- Building `gifty-backend`: https://github.com/IceDarold/gifty-backend
+
+---
+
+## Featured Websites
+- https://cyfinal.vercel.app/
+- https://cypmfinal.vercel.app/
+
+---
+
+## Visuals
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=your-username&bg=0d1117&text=9e9e9e&shadow=0f0f0f&border=1f1f1f" alt="3D Contribution Graph" />
+</div>
 
 ---
 
