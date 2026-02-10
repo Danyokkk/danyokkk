@@ -33,9 +33,13 @@ What I can help with:
 ---
 
 ## Visuals
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Danyokkk&bg=0d1117&text=9e9e9e&shadow=0f0f0f&border=1f1f1f" alt="3D Contribution Graph" />
-</div>
+<!-- snake -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IceDarold/IceDarold/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/IceDarold/IceDarold/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
@@ -61,24 +65,4 @@ What I can help with:
 ---
 
 ## Contact
-- Telegram: [t.me/daqxn](https://t.me/daqxn)
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danyokkk&bg_color=0d1117&color=9e9e9e&line=9e9e9e&point=f0f0f0&area=true&hide_border=true" alt="Contribution graph" />
-</div>
-
-<!-- snake -->
-<p align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/Danyokkk/Danyokkk/output/github-snake-dark.svg" 
-    />
-    <img 
-      alt="github-snake" 
-      src="https://raw.githubusercontent.com/Danyokkk/Danyokkk/output/github-snake.svg" 
-    />
-  </picture>
-</p>
+- Telegram: **@daqxn** → <https://t.me/daqxn>
