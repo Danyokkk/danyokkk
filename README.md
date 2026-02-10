@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/7c/55/cd/7c55cda50f231905eb2eaf9cf758a0f4.gif" width="420" alt="Animated banner" />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:4a4a4a&height=90&section=header" alt="Monochrome wave" width="100%" />
+  
   <h1>Hi, I’m Danik</h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&center=true&vCenter=true&width=900&color=9E9E9E&lines=Programmer+%26+Game+Developer;High-level+web+app+specialist;Always+learning+and+experimenting;Open+to+collaborations+and+cool+projects" alt="Typing animation" />
@@ -9,6 +8,7 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:4a4a4a&height=90&section=header" alt="Monochrome wave" width="100%" />
 ## About
 I’m a programmer and game developer with a strong focus on building real-world web applications. I care about clean architecture, fast iteration, and shipping things people actually use. On the game side, I enjoy prototyping mechanics, building tools, and bringing ideas to life with tight feedback loops. I’m always learning, experimenting, and open to working with strong teams or solo creators on meaningful projects.
 
