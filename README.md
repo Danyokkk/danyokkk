@@ -40,7 +40,5 @@ I’m a high-level specialist in web app development, with a little experience i
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danyokkk&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" alt="Contribution graph" />
 </div>
-
-> Replace `your-username` in the graph URL with your GitHub username to enable the animation.
