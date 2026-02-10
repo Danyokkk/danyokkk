@@ -1,23 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:4a4a4a&height=120&section=header&text=&fontSize=1" width="100%" />
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-    font=Unbounded
-    &size=32
-    &duration=3000
-    &pause=2000
-    &center=true
-    &vCenter=true
-    &width=900
-    &color=9E9E9E
-    &lines=Hi%2C+I%27m+Danik" />
-</div>
+  <img src="https://i.pinimg.com/originals/7c/55/cd/7c55cda50f231905eb2eaf9cf758a0f4.gif" width="420" alt="Animated banner" />
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:4a4a4a&height=90&section=header" alt="Monochrome wave" width="100%" />
+  <h1>Hi, I’m Danik</h1>
+
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&center=true&vCenter=true&width=900&color=9E9E9E&lines=Programmer+%26+Game+Developer;High-level+web+app+specialist;Always+learning+and+experimenting;Open+to+collaborations+and+cool+projects" alt="Typing animation" />
+</div>
 
 ---
 
 ## About
-I’m a programmer and game developer focused on building clean, real-world products. I care about architecture, fast iteration, and shipping features people actually use. On the game side, I enjoy prototyping mechanics, gameplay loops, and small tools that make ideas tangible. I’m always learning, experimenting, and open to collaborating with strong teams or solo creators on meaningful projects.
+I’m a programmer and game developer with a strong focus on building real-world web applications. I care about clean architecture, fast iteration, and shipping things people actually use. On the game side, I enjoy prototyping mechanics, building tools, and bringing ideas to life with tight feedback loops. I’m always learning, experimenting, and open to working with strong teams or solo creators on meaningful projects.
 
 I’m strongest in Python and HTML, and I also work with Java. If you’re looking for someone who can build the product, set up the pipeline, and keep improving it, I’m ready to help.
 
@@ -37,6 +30,13 @@ What I can help with:
 ## Featured Websites
 - https://cyfinal.vercel.app/
 - https://cypmfinal.vercel.app/
+
+---
+
+## Visuals
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Danyokkk&bg=0d1117&text=9e9e9e&shadow=0f0f0f&border=1f1f1f" alt="3D Contribution Graph" />
+</div>
 
 ---
 
@@ -69,13 +69,3 @@ What I can help with:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danyokkk&bg_color=0d1117&color=9e9e9e&line=9e9e9e&point=f0f0f0&area=true&hide_border=true" alt="Contribution graph" />
 </div>
-
----
-
-<!-- snake -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danyokkk/Danyokkk/output/github-snake-dark.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Danyokkk/Danyokkk/output/github-snake.svg" />
-  </picture>
-</p>
