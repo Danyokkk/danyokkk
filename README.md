@@ -36,7 +36,7 @@ What I can help with:
 
 ## Visuals
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=your-username&bg=0d1117&text=9e9e9e&shadow=0f0f0f&border=1f1f1f" alt="3D Contribution Graph" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Danyokkk&bg=0d1117&text=9e9e9e&shadow=0f0f0f&border=1f1f1f" alt="3D Contribution Graph" />
 </div>
 
 ---
@@ -68,5 +68,5 @@ What I can help with:
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danyokkk&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danyokkk&bg_color=0d1117&color=9e9e9e&line=9e9e9e&point=f0f0f0&area=true&hide_border=true" alt="Contribution graph" />
 </div>
