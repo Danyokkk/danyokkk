@@ -2,9 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient,100:1a1a27&height=180&section=header&text=Danylo%20(Danik)&fontSize=48&fontColor=ffffff" alt="Danylo header" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=9E9E9E&center=true&vCenter=true&width=720&lines=Programmer+%26+Game+Developer;Web+apps+%7C+Game+prototypes+%7C+Automation;Clean+architecture+and+fast+iteration;Open+to+collabs+and+cool+projects" alt="typing" />
-</p>
+<!-- Monochrome waving capsule -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:4a4a4a&height=90&section=header" 
+  alt="Monochrome wave" 
+  width="100%" 
+/>
+
+<!-- Typing animation -->
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=1000&center=true&vCenter=true&width=900&color=9E9E9E&lines=Hi%2C+I%27m+Danik" 
+    alt="Typing intro" 
+  />
+</div>
+
 
 ---
 
