@@ -34,13 +34,6 @@ What I can help with:
 
 ---
 
-## Visuals
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Danyokkk&bg=0d1117&text=9e9e9e&shadow=0f0f0f&border=1f1f1f" alt="3D Contribution Graph" />
-</div>
-
----
-
 ## Toolbox
 
 <div align="center">
