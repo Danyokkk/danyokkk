@@ -8,20 +8,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:4a4a4a&height=90&section=header" alt="Monochrome wave" width="100%" />
-  ## About
-I’m a programmer and game developer with a strong focus on building real-world web applications. I care about clean architecture, fast iteration, and shipping things people actually use. On the game side, I enjoy prototyping mechanics, building tools, and bringing ideas to life with tight feedback loops. I’m always learning, experimenting, and open to working with strong teams or solo creators on meaningful projects.
-
-I’m strongest in Python and HTML, and I also work with Java. If you’re looking for someone who can build the product, set up the pipeline, and keep improving it, I’m ready to help.
-
-What I can help with:
-- Web apps from MVP to production
-- ML-powered features and data pipelines
-- Game prototypes, gameplay loops, and tooling
-- Automation, deployment, and CI/CD workflows
-</div>
-
 ## About
 I’m a programmer and game developer with a strong focus on building real-world web applications. I care about clean architecture, fast iteration, and shipping things people actually use. On the game side, I enjoy prototyping mechanics, building tools, and bringing ideas to life with tight feedback loops. I’m always learning, experimenting, and open to working with strong teams or solo creators on meaningful projects.
 
@@ -82,3 +68,17 @@ What I can help with:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danyokkk&bg_color=0d1117&color=9e9e9e&line=9e9e9e&point=f0f0f0&area=true&hide_border=true" alt="Contribution graph" />
 </div>
+
+<!-- snake -->
+<p align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Danyokkk/Danyokkk/output/github-snake-dark.svg" 
+    />
+    <img 
+      alt="github-snake" 
+      src="https://raw.githubusercontent.com/Danyokkk/Danyokkk/output/github-snake.svg" 
+    />
+  </picture>
+</p>
