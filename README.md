@@ -8,7 +8,10 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:4a4a4a&height=90&section=header" alt="Monochrome wave" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:4a4a4a&height=90&section=header" alt="Monochrome wave" width="100%" />
+</div>
+
 ## About
 I’m a programmer and game developer with a strong focus on building real-world web applications. I care about clean architecture, fast iteration, and shipping things people actually use. On the game side, I enjoy prototyping mechanics, building tools, and bringing ideas to life with tight feedback loops. I’m always learning, experimenting, and open to working with strong teams or solo creators on meaningful projects.
 
