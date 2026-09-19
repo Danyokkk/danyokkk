@@ -67,4 +67,4 @@ What I can help with:
 ---
 
 ## Contact
-- Telegram: **@daqxn** → <https://t.me/daqxn>
+- Telegram: **@daan1ks** → <https://t.me/daan1ks>
