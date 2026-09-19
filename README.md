@@ -27,8 +27,8 @@ What I can help with:
 ---
 
 ## Featured Websites
-- https://cyfinal.vercel.app/
-- https://cypmfinal.vercel.app/
+- https://www.cyprusbus.site/
+- https://www.daan1k.xyz/
 - https://daan1k.space/
 
 ---
